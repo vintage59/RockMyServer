@@ -1,0 +1,42 @@
+//
+
+"Commands"
+{
+	"Rock My Server"
+	{
+		"Rock Cool"
+		{
+		"cmd"	"sm_playzik @all #1"
+		"admin"	"sm_generic"
+		"execute"	"player"
+		"1"
+		{                              
+		"type" "list"
+		"title" "choice:"
+		"1" "Your web site for storage/index.php?id=name_of.mp3"
+		"1." "Name of the song"
+		"2" "Your web site for storage/index.php?id=name_of.mp3"
+		"2." "Name of the song"
+		"3" "etc...."
+		"3." "etc..."
+		}
+		}
+		"Rock N'Roll"
+		{
+		"cmd"	"sm_playzik @all #1"
+		"admin"	"sm_generic"
+		"execute"	"player"
+		"1"
+		{                          
+		"type" "list"
+		"title" "choix:"
+		"1" "Your web site for storage/index.php?id=name_of.mp3"
+		"1." "Name of the song"
+		"2" "Your web site for storage/index.php?id=name_of.mp3"
+		"2." "Name of the song"
+		"3" "etc...."
+		"3." "etc..."
+		}
+		}
+	}
+}
